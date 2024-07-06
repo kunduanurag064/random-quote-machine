@@ -1,0 +1,43 @@
+*{
+  margin:0;
+}
+
+.container {
+  height:100vh;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+}
+
+.myquote-box {
+  border: 0;
+  width: 500px;
+  background-color: white;
+}
+
+.quotetext{
+  height :auto;
+  padding:30px;
+  font-family:cursive;
+  font-size: 20px;
+}
+
+.writername{
+  float: right;
+  margin: 30px;
+}
+
+.newquotebutton{
+  margin:10px;
+  float: right;
+  padding:10px;
+  border: none;
+  cursor: pointer;
+}
+
+.social-media-buttons{
+  margin: 10px;
+  padding:10px;
+  border: none;
+  cursor: pointer;
+}
